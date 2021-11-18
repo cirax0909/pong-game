@@ -26,4 +26,3 @@ class ScoreBoard(Turtle):
         self.clear()
         self.score_r += 1
         self.update_scoreboard()
-
